@@ -1,0 +1,28 @@
+.main-body {
+    padding: 3rem 2rem;
+    text-align: center;
+}
+
+.main-body h2 {
+    color: #333;
+    margin-bottom: 1rem;
+}
+
+.main-body p {
+    color: #666;
+    margin-bottom: 1.5rem;
+}
+
+.user-info {
+    list-style: none;
+    padding: 0;
+    max-width: 400px;
+    margin: 0 auto;
+}
+
+.user-info li {
+    padding: 0.75rem;
+    background-color: #f5f5f5;
+    margin-bottom: 0.5rem;
+    border-radius: 4px;
+}
